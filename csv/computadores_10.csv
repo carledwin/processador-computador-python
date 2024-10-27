@@ -1,0 +1,11 @@
+nome,codigo,produto,versao_nome,versao_versao,memoria,cpu,polegadas,peso,preco
+MeuPC,50016,Servidor,v1.0,2022,32GB,AMD Ryzen,27,1.5kg,500 USD
+SeuPC,77152,Desktop,v2.0,2023,16GB,Intel i5,27,2kg,1500 USD
+MeuPC,68519,Desktop,v2.0,2023,32GB,Intel i7,15.6,10kg,500 USD
+SeuPC,74451,Laptop,v1.0,2022,8GB,Intel i7,27,2kg,1000 USD
+NossoPC,11778,Desktop,v1.0,2022,32GB,Intel i7,13,2kg,500 USD
+MeuPC,26540,Servidor,v1.0,2022,16GB,AMD Ryzen,27,2kg,1500 USD
+MeuPC,99373,Desktop,v2.0,2023,32GB,Intel i5,13,2kg,1000 USD
+NossoPC,97881,Servidor,v1.0,2022,32GB,Intel i5,27,10kg,500 USD
+MeuPC,81378,Servidor,v2.0,2023,32GB,Intel i5,17,1.5kg,500 USD
+SeuPC,46143,Laptop,v2.0,2023,16GB,Intel i5,15.6,1.5kg,1000 USD
